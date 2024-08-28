@@ -23,7 +23,6 @@ public class Practice_test {
 		// TODO Auto-generated method stub
 		RemoteWebDriver currentDriver = Keyword.getDriver();
 		MainMenu home_page = new MainMenu();
-		home_page.hoverOn("kids");
-		
+		home_page.hoverOn("kids");	
 	}
 }
